@@ -7,4 +7,4 @@
 - 💬 Ask me about development.
 - 📫 How to reach me: ultrakeypoint@gmail.com, 
 - 😄 Pronouns: Developer
-- ⚡ Fun fact: Trauri
+- ⚡ Fun fact: Tauri(https://tauri.app), Flutter(https://flutter.dev)
