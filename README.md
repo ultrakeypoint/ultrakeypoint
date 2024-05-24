@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github.com/dashboard
+https://ultrakeypoint.github.io
 
 - 🔭 I’m currently working on Full stack
 - 🌱 I’m currently learning Rust
