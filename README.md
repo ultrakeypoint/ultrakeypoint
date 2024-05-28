@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-https://ultrakeypoint.github.io
-
 - 🔭 I’m currently working on Full stack
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate with you
@@ -10,3 +8,7 @@ https://ultrakeypoint.github.io
 - 📫 How to reach me: ultrakeypoint@gmail.com, 
 - 😄 Pronouns: Developer
 - ⚡ Fun fact: Tauri(https://tauri.app), Flutter(https://flutter.dev)
+
+[My Blog](https://ultrakeypoint.github.io)  
+[My Company InverseFirm](https://facebook.com/inversefirm)  
+[My Company InverseFirm Facebook](https://facebook.com/inversefirm)  
