@@ -10,5 +10,5 @@
 - ⚡ Fun fact: Tauri(https://tauri.app), Flutter(https://flutter.dev)
 
 [My Blog](https://ultrakeypoint.github.io)  
-[My Company InverseFirm](https://facebook.com/inversefirm)  
+[My Company InverseFirm](https://inversefirm.com)  
 [My Company InverseFirm Facebook](https://facebook.com/inversefirm)  
